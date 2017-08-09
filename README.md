@@ -1,2 +1,1 @@
-# student
-个人测试
+# student学生管理
